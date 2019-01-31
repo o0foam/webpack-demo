@@ -1,3 +1,2 @@
-https://webpack.docschina.org/guides/development/
+https://webpack.docschina.org/guides/hot-module-replacement/
 ---
-使用 webpack-dev-server 
