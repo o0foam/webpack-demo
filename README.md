@@ -1,2 +1,2 @@
-https://webpack.docschina.org/guides/hot-module-replacement
+https://webpack.docschina.org/guides/hot-module-replacement/
 ---
